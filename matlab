@@ -1,5 +1,3 @@
 clc;
-asdasf
-a
-sfasfsa
-fa
+х
+
